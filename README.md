@@ -11,7 +11,7 @@ A lo largo del proyecto abordaremos cuatro problemas comunes en el análisis de 
 4. **Interacciones**: Evaluaremos las interacciones entre diferentes variables para mejorar el ajuste del modelo.<br>
 
 
-###Indice
+### Indice
 - [Reporte en formato HTML](A1.5%20641675.html)
 - [Reporte en formato ipynb](A1.5%20641675.ipynb)
 - [Base de datos](Calificaciones.csv)
